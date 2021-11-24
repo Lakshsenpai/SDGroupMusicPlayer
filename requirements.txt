@@ -2,7 +2,7 @@ pyrogram
 TgCrypto
 pytgcalls
 python-dotenv
-youtube_dl
+git+https://github.com/HellBoy-OP/yt-fork
 youtube_search_python
 requests
 aiohttp
